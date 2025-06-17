@@ -55,6 +55,9 @@
 </p>
 
 ---
+### Contributions-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaBanga&layout=compact)
+
 
 ### 🏆 Achievements & Milestones
 
