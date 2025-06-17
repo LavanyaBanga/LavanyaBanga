@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Lavanya+Banga;Software+Developer+In+Progress;DSA+%7C+Web+Dev+%7C+Python+%7C+Creative+Coder;&center=true&width=500&height=50&color=F78DB6&vCenter=true&size=22" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="70%" />
-</p>
+
 
 <h1 align="center">Hey there! 👋 I'm Lavanya Banga</h1>
 
