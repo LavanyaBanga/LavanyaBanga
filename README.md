@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hey there! 👋 I'm Lavanya Banga</h1>
+
 
 <p align="center">
   💻 A passionate tech enthusiast | 🎓 BTech @ GLA University | 🌸 Creative Web Developer  
