@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=1st+Year+B.Tech+Student;Passionate+Web+Developer;DSA+Learner+%F0%9F%A7%90;Loves+to+build+cool+projects!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=3rd+Year+B.Tech+Student;Passionate+Web+Developer;DSA+Learner+%F0%9F%A7%90;Loves+to+build+cool+projects!" />
 </p>
 
 - 🌱 I’m currently learning **DSA and full-stack development**
