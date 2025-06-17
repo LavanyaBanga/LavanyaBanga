@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DSA and full-stack development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, GitHub**
+- 💬 Ask me about **HTML, CSS, JavaScript,Java, Python,Git,SQL,MYSQL, GitHub**
 
-- 🌟 Fun fact: *I love aesthetic and cute UI designs 💖*
+- 🌟 Fun fact: *I love aesthetic UI designs 💖*
 
 - 📫 How to reach me: **lavanyabanga14@email.com**
 
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 </p>
