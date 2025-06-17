@@ -11,7 +11,7 @@
 
 - 🌟 Fun fact: *I love aesthetic and cute UI designs 💖*
 
-- 📫 How to reach me: **lavanyabanga@email.com**
+- 📫 How to reach me: **lavanyabanga14@email.com**
 
 ---
 
