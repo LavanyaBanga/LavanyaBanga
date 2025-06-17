@@ -19,6 +19,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-e34c26?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
    <img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-1572B6?style=flat&logo=css3&logoColor=white" />
