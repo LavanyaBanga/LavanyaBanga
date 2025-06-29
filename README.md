@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Lavanya+Banga;Software+Developer+In+Progress;DSA+%7C+Web+Dev+%7C+Python+%7C+Creative+Coder;&center=true&width=500&height=50&color=F78DB6&vCenter=true&size=22" />
 </p>
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
    <img src="https://img.shields.io/badge/MongoDb-4479A1?style=for-the-badge&logo=MongoDb&logoColor=white" />
-   <img src="https://img.shields.io/badge/Advance python-4479A1?style=for-the-badge&logo=Advance python &logoColor=white" />
+   
 </p>
 
 ---
