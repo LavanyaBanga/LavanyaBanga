@@ -60,6 +60,11 @@
 </p>
 
 ---
+### 📊 Languages I’ve Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaBanga&langs_count=10&layout=compact&theme=radical" />
+</p>
 
 ### 🏗️ Most Active Repository (Highest Commits)
 
@@ -67,13 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LavanyaBanga&repo=DSA-practice-daily&theme=radical" />
 </p>
 
----
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
 ---
 
