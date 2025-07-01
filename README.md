@@ -13,41 +13,19 @@
 ### 👩‍💻 About Me
 
 - 🔭 Learning full-stack development and solving daily DSA problems  
-- 💡 Participated in national coding contests and hackathons (Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX)  
+- 💡 Participated in coding contests and hackathons  like (Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX)  
 - 💼 Member of GirlsCode & WomenTechmakers  
 - 🎖️ Mentee at Apertre 2.0  
-- 🧠 Solved **570+ DSA questions** on LeetCode, GFG, Hyperskill  
+- 🧠 Solved **570+ DSA questions** on  Hyperskill
+- 🧠 Solved 150+ questions on Leetcode  
 - 🌐 Created 20+ Python mini-projects and UI-based web apps  
 - 🌸 Contributed to Social Summer of Code  
 - 📖 Love reading novels and listening to soft music while coding  
-
----
-
-### 💼 My Projects Showcase
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [🌸 Food Website](https://github.com/LavanyaBanga/Food-page) | HTML, CSS | Aesthetic landing page with pinkish tones |
-| [💌 FLAMES Game](https://github.com/LavanyaBanga/flames_game) | Python | Fun logic-based mini game |
-| [📅 DSA Practice Daily](https://github.com/LavanyaBanga/DSA-practice-daily) | Java, C++, Python | Daily problem-solving with organized folders |
-| [🎮 Guessing Game](https://github.com/LavanyaBanga/Guessing-Game) | Python | Simple number guessing game |
-| [📝 Feedback Form](https://github.com/LavanyaBanga/Feedback-form) | HTML, CSS | UI form with responsive layout |
-| [🔴 Color Changing Circles](https://github.com/LavanyaBanga/colorchanging-circles) | HTML, CSS, JS | Dynamic UI with circle generation & styling |
-| [📦 API Fetch Store](https://github.com/LavanyaBanga/api-fetch-store) | JS, HTML, CSS | Fetch product data from fake store API |
-
----
-
 ### 🧰 Tools & Technologies
-
-<p>
- 
- 
- ### 🧰 Tools & Technologies
-
-<p>
+ <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,7 +43,7 @@
 
 ### 🏆 Achievements & Milestones
 
-- 🧩 Solved 475+ Python challenges on Hyperskill  
+- 🧩 Solved 575+ Python challenges on Hyperskill  
 - 📚 Created 20+ Python mini-projects  
 - 👩‍💻 Active in CodeClash, Flipkart Grid, Hackathons  
 - 🌸 Built a mindfulness web app at DecoCX Hackathon  
@@ -73,7 +51,6 @@
 - 🧠 Scored 28/30 in Python Test on CodeChef  
 - 🧪 Built a complete college helper app with AI Tutor, Mood Tracker, Coding Room, and more  
 
----
 
 ### 📊 GitHub Stats
 
