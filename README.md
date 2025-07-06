@@ -17,10 +17,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/1d/3f/441d3f8cbb3bc1c899ad7fcff578a219.gif" width="300px" />
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
 - 🔭 Learning full-stack development and solving daily DSA problems  
-- 💡 Participated in coding contests and hackathons  like (Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX)  
+- 💡 Participated in coding contests and hackathons like (Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX)  
 - 💼 Member of GirlsCode & WomenTechmakers  
 - 🎖️ Mentee at Apertre 2.0  
 - 🧠 Solved **570+ DSA questions** on Hyperskill  
@@ -28,6 +34,12 @@
 - 🌐 Created 20+ Python mini-projects and UI-based web apps  
 - 🌸 Contributed to Social Summer of Code  
 - 📖 Love reading novels and listening to soft music while coding  
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/45/1a/1d/451a1d3d9c5a615ff40fa122d36ff24b.gif" width="300px" />
+</p>
 
 ---
 
@@ -55,6 +67,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LavanyaBanga&theme=light&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/98/9f/61/989f61fa0c83279e2ad3f055ec2a5038.gif" width="300px" />
 </p>
 
 ---
@@ -102,5 +120,9 @@
 📧 Email: **lavanyabanga14@gmail.com**
 
 ---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f7/8e/f2/f78ef24aa1eaa38750b0e44fa27300d6.gif" width="250px" />
+</p>
 
 <p align="center">✨ “Code with love, build with joy.” ✨</p>
