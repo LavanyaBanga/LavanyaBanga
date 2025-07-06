@@ -1,5 +1,6 @@
 <!-- 🌟 Aesthetic GitHub Mascot Image at the Top -->
-<p align="center">
+<p align="center"
+ img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg">
  
 </p>
 
