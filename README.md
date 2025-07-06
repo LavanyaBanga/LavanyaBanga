@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://i.postimg.cc/FKR9MJBH/lavanya-tech-banner.png" alt="Lavanya's Tech Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LavanyaBanga&label=Profile+Views&color=F78DB6&style=flat" alt="LavanyaBanga" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Lavanya+Banga;Software+Developer+In+Progress;DSA+%7C+Web+Dev+%7C+Python+%7C+Creative+Coder;&center=true&width=500&height=50&color=F78DB6&vCenter=true&size=22" />
 </p>
 
