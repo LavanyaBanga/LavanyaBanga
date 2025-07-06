@@ -1,7 +1,6 @@
 <!-- 🌟 Aesthetic GitHub Mascot Image at the Top -->
-<p align="center"
- img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg">
- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" alt="GitHub Banner" />
 </p>
 
 <!-- Typing effect for your intro -->
@@ -12,6 +11,7 @@
 <!-- Intro paragraph -->
 <p align="center">
   💻 Passionate Tech Enthusiast | 🎓 BTech @ GLA University | 🌸 Creative Web Developer  
+  <br/>
   🌱 Growing daily with DSA, Web Dev, Hackathons & Competitions
 </p>
 
