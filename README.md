@@ -1,6 +1,6 @@
 <!-- 🌟 Aesthetic GitHub Mascot Image at the Top -->
 <p align="center">
-  <img src="https://i.postimg.cc/9QX9XmGK/github-aesthetic-banner.png" width="400px" alt="Aesthetic GitHub Mascot Banner" />
+ 
 </p>
 
 <!-- Typing effect for your intro -->
