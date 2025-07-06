@@ -58,18 +58,13 @@
 </p>
 
 ---
+# Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LavanyaBanga/LavanyaBanga/output/github-contribution-grid-snake.svg" alt="3D contribution graph" />
+</p>
 
-### 🏆 Achievements & Milestones
+  
 
-- 🧩 Solved 575+ Python challenges on Hyperskill  
-- 📚 Created 20+ Python mini-projects  
-- 👩‍💻 Active in CodeClash, Flipkart Grid, Hackathons  
-- 🌸 Built a mindfulness web app at DecoCX Hackathon  
-- 🔥 Maintained daily DSA streak on LeetCode + GFG  
-- 🧠 Scored 28/30 in Python Test on CodeChef  
-- 🧪 Built a complete college helper app with AI Tutor, Mood Tracker, Coding Room, and more  
-
----
 
 ### 📈 WakaTime Coding Stats (Updated Daily)
 
