@@ -1,6 +1,6 @@
 <!-- 🌟 Aesthetic GitHub Tech Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/KvZKDHjC/github-circuit-banner.png" alt="Aesthetic Tech Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" alt="Aesthetic Tech Banner" width="100%" />
 </p>
 
 <!-- ⌨️ Typing SVG for Intro -->
