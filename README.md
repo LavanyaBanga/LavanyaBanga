@@ -58,14 +58,6 @@
 </p>
 
 ---
-# Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LavanyaBanga/LavanyaBanga/output/github-contribution-grid-snake.svg" alt="3D contribution graph" />
-</p>
-
-  
-
-
 ### 📈 WakaTime Coding Stats (Updated Daily)
 
 <!--START_SECTION:waka-->
