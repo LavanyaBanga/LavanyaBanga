@@ -57,16 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LavanyaBanga&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
 </p>
 
----
-
-### 📈 WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-📊 Loading your daily activity...
-<!--END_SECTION:waka-->
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -81,15 +71,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaBanga&langs_count=10&layout=compact&theme=radical" />
 </p>
-
----
-
-### 🏗️ Most Active Repository
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LavanyaBanga&repo=DSA-practice-daily&theme=radical" />
-</p>
-
 ---
 
 ### 📫 Let’s Connect!
