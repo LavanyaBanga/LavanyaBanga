@@ -58,14 +58,17 @@
 </p>
 
 ---
-
-### 📚 Most Used Languages
+### 💖 Developer Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LavanyaBanga&layout=compact&theme=radical" />
+🌸 Creative Frontend • ⚙️ Backend Learner • ⚔️ DSA Explorer • 💻 Open Source Girl  
+<br/>
+✨ Turning ideas into beautiful web experiences  
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ### 📫 Let’s Connect!
 
