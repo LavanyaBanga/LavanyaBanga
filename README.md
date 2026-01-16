@@ -50,14 +50,6 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LavanyaBanga&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 ### 💖 Developer Vibes
 
 <p align="center">
@@ -66,9 +58,8 @@
 ✨ Turning ideas into beautiful web experiences  
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+> ✨ **“I’m not just learning to code, I’m learning to create.”**  
+> 🌷 *Turning curiosity into creativity, one project at a time.*
 
 ### 📫 Let’s Connect!
 
