@@ -61,8 +61,9 @@
 ### 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaBanga&langs_count=10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LavanyaBanga&layout=compact&theme=radical" />
 </p>
+
 ---
 
 ### 📫 Let’s Connect!
