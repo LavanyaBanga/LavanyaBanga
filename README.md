@@ -50,22 +50,18 @@
 </p>
 
 ---
-### 💖 Developer Vibes
+### Developer Vibes
 
 <p align="center">
-🌸 Creative Frontend • ⚙️ Backend Learner • ⚔️ DSA Explorer • 💻 Open Source Girl  
+Creative Frontend • ⚙️ Backend Learner •  DSA Explorer • 💻 Open Source Girl  
 <br/>
-✨ Turning ideas into beautiful web experiences  
+ Turning ideas into beautiful web experiences  
 </p>
 
-> ✨ **“I’m not just learning to code, I’m learning to create.”**  
-> 🌷 *Turning curiosity into creativity, one project at a time.*
+>  **“I’m not just learning to code, I’m learning to create.”**  
+>  *Turning curiosity into creativity, one project at a time.*
 
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-banga/)  
 📧 *lavanyabanga14@gmail.com*
-
----
-
-<p align="center">✨ “Code with love, build with joy.” ✨</p>
