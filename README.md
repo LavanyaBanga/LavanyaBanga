@@ -1,11 +1,11 @@
 <!-- 🌟 Aesthetic GitHub Tech Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LavanyaBanga/LavanyaBanga/main/assets/banner.jpg" alt="Aesthetic Tech Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" alt="Aesthetic Tech Banner" width="100%" />
 </p>
 
 <!-- ⌨️ Typing SVG for Intro -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DB6&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Lavanya+Banga!;Aspiring+Software+Developer;Loves+Web+Dev+%7C+DSA+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Lavanya+Banga!;Aspiring+Software+Developer%F0%9F%92%BB;Loves+Web+Dev+%7C+DSA+%7C+Python" />
 </h3>
 
 <!-- 💖 Short Intro -->
@@ -21,13 +21,13 @@
 
 - 🔭 Learning full-stack development and solving daily DSA problems  
 - 💡 Participated in coding contests and hackathons like Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX  
-- 💼 Community member at GirlsCode & WomenTechmakers  
+- 💼 Member of GirlsCode & WomenTechmakers  
 - 🎖️ Mentee at Apertre 2.0  
-- 🧠 Solved **570+ DSA questions** on Hyperskill  
-- 💡 Solved **150+ questions** on LeetCode  
+- 🧠 Solved *570+ DSA questions* on Hyperskill  
+- 💡 Solved *150+ questions* on LeetCode  
 - 🌐 Created 20+ Python mini-projects and UI-based web apps  
 - 🌸 Contributor at Social Summer of Code  
-- 📖 Love reading novels and listening to soft music while coding 🎶  
+- 📖 Love reading novels and listening to soft music while coding 🎶
 
 ---
 
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -57,8 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LavanyaBanga&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -73,13 +71,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaBanga&langs_count=10&layout=compact&theme=radical" />
 </p>
-
 ---
 
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-banga/)  
-📧 **lavanyabanga14@gmail.com**
+📧 *lavanyabanga14@gmail.com*
 
 ---
 
