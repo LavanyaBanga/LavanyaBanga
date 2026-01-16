@@ -24,7 +24,7 @@
 - 💼 Member of GirlsCode & WomenTechmakers  
 - 🎖️ Mentee at Apertre 2.0  
 - 🧠 Solved *570+ DSA questions* on Hyperskill  
-- 💡 Solved *150+ questions* on LeetCode  
+- 💡 Solved *200+ questions* on LeetCode  
 - 🌐 Created 20+ Python mini-projects and UI-based web apps  
 - 🌸 Contributor at Social Summer of Code  
 - 📖 Love reading novels and listening to soft music while coding 🎶
