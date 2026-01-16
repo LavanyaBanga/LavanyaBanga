@@ -56,14 +56,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LavanyaBanga&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LavanyaBanga&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavanyaBanga&theme=radical" height="180px"/>
-</p>
-
 ---
 
 ### 📚 Most Used Languages
