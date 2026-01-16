@@ -50,16 +50,11 @@
 </p>
 
 ---
-### Developer Vibes
-
 <p align="center">
 Creative Frontend • ⚙️ Backend Learner •  DSA Explorer • 💻 Open Source Girl  
 <br/>
  Turning ideas into beautiful web experiences  
 </p>
-
->  **“I’m not just learning to code, I’m learning to create.”**  
->  *Turning curiosity into creativity, one project at a time.*
 
 ### 📫 Let’s Connect!
 
