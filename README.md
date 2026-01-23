@@ -58,5 +58,6 @@ Creative Frontend • ⚙️ Backend Learner •  DSA Explorer • 💻 Open Sou
 
 ### 📫 Let’s Connect!
 
-(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-banga/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-banga/)  
 📧 *lavanyabanga14@gmail.com*
+
