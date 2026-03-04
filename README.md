@@ -25,7 +25,9 @@
 - 🎖️ Mentee at Apertre 2.0  
 - 🧠 Solved *570+ DSA questions* on Hyperskill  
 - 💡 Solved *200+ questions* on LeetCode  
-- 🌐 Created 20+ Python mini-projects and UI-based web apps  
+- 🌐 Created 20+ Python mini-projects and UI-based web apps
+- 💜 Created Frontend of a Healthcare website 'Sahaj'
+- ❤️Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
 - 🌸 Contributor at Social Summer of Code  
 - 📖 Love reading novels and listening to soft music while coding 🎶
 
