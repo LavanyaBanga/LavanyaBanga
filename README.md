@@ -29,7 +29,7 @@
 - 💜 Created Frontend of a Healthcare website 'Sahaj'
 - ❤️Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
 - 🌸 Contributor at Social Summer of Code  
-- 📖 Love reading novels and listening to soft music while coding 🎶
+- 📖 Love reading novels and listening to music
 
 ---
 
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
