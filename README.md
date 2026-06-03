@@ -28,7 +28,7 @@
 - 💡 Solved *150+ questions* on CodeChef
 - 🌐 Created 20+ Python mini-projects and UI-based web apps
 - 💜 Created  a Healthcare website 'Saarthi'using MERN stack
-- - 💜 Created  a coding website 'LifeOS'using MERN stack
+- - 💜 Created  a coding website 'InternEase'using MERN stack
 - ❤️Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
 - 🌸 Contributor at Social Summer of Code  
 - 📖 Love reading novels and listening to music
