@@ -27,8 +27,9 @@
 - 💡 Solved *300+ questions* on LeetCode
 - 💡 Solved *150+ questions* on CodeChef
 - 🌐 Created 20+ Python mini-projects and UI-based web apps
-- 💜 Created  a Healthcare website 'Saarthi'using MERN stack
-- - 💜 Created  a coding website 'InternEase'using MERN stack
+- 💜 Created  a Healthcare website 'Saarthi'using MERN stack with GEN AI
+- - 💜 Created  a coding website 'InternEase'using MERN stack with GEN AI.
+  - 💜 Created  a coding website 'NutriChef AI'using MERN stack with GEN AI
 - ❤️Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
 - 🌸 Contributor at Social Summer of Code  
 - 📖 Love reading novels and listening to music
