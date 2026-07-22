@@ -10,7 +10,7 @@
 
 <!-- 💖 Short Intro -->
 <p align="center">
-   Passionate Tech Enthusiast | 🎓 BTech @ GLA University |  Creative Web Developer  
+   Passionate Tech Enthusiast | BTech @ GLA University |  Creative Web Developer  
   <br/>
    Growing daily with DSA, Web Dev, Hackathons & Competitions
 </p>
@@ -63,13 +63,13 @@
 
 ---
 <p align="center">
-Creative Frontend • ⚙️ Backend Learner •  DSA Explorer • 💻 Open Source Girl  
+Creative Frontend •  Backend Learner •  DSA Explorer •  Open Source Girl  
 <br/>
  Turning ideas into beautiful web experiences  
 </p>
 
-### 📫 Let’s Connect!
+###  Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-banga-0a00692b1/)  
-📧 *lavanyabanga14@gmail.com*
+ *lavanyabanga14@gmail.com*
 
