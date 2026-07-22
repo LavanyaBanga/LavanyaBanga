@@ -62,7 +62,7 @@
 
 ---
 <p align="center">
-Creative Frontend •  Backend Learner •  DSA Explorer •  Open Source Girl  
+Creative Frontend •  Backend •  DSA Explorer •  Open Source Girl  
 <br/>
  Turning ideas into beautiful web experiences  
 </p>
