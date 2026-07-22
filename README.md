@@ -31,8 +31,7 @@
 -  Created  a coding website 'InternEase'using MERN stack with GEN AI.
 - Created  a coding website 'NutriChef AI'using MERN stack with GEN AI
 - Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
--  Contributor at Social Summer of Code  
-- 📖 Love reading novels and listening to music
+-  Contributor at Social Summer of Code
 
 ---
 
