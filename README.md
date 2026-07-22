@@ -24,7 +24,7 @@
 -  Member of GirlsCode & WomenTechmakers  
 -  Mentee at Apertre 2.0  
 -  Solved *570+ DSA questions* on Hyperskill  
-   Solved *300+ questions* on LeetCode
+   Solved *350+ questions* on LeetCode
 -  Solved *150+ questions* on CodeChef
 -  Created 20+ Python mini-projects and UI-based web apps
 -  Created  a Healthcare website 'Saarthi'using MERN stack with GEN AI
