@@ -10,33 +10,33 @@
 
 <!-- 💖 Short Intro -->
 <p align="center">
-  💻 Passionate Tech Enthusiast | 🎓 BTech @ GLA University | 🌸 Creative Web Developer  
+   Passionate Tech Enthusiast | 🎓 BTech @ GLA University |  Creative Web Developer  
   <br/>
-  🌱 Growing daily with DSA, Web Dev, Hackathons & Competitions
+   Growing daily with DSA, Web Dev, Hackathons & Competitions
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🔭 Learning full-stack development and solving daily DSA problems  
-- 💡 Participated in coding contests and hackathons like Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX  
-- 💼 Member of GirlsCode & WomenTechmakers  
-- 🎖️ Mentee at Apertre 2.0  
-- 🧠 Solved *570+ DSA questions* on Hyperskill  
-- 💡 Solved *300+ questions* on LeetCode
-- 💡 Solved *150+ questions* on CodeChef
-- 🌐 Created 20+ Python mini-projects and UI-based web apps
-- 💜 Created  a Healthcare website 'Saarthi'using MERN stack with GEN AI
-- - 💜 Created  a coding website 'InternEase'using MERN stack with GEN AI.
-  - 💜 Created  a coding website 'NutriChef AI'using MERN stack with GEN AI
-- ❤️Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
-- 🌸 Contributor at Social Summer of Code  
+-  Learning full-stack development and solving daily DSA problems  
+-  Participated in coding contests and hackathons like Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX  
+-  Member of GirlsCode & WomenTechmakers  
+-  Mentee at Apertre 2.0  
+-  Solved *570+ DSA questions* on Hyperskill  
+   Solved *300+ questions* on LeetCode
+-  Solved *150+ questions* on CodeChef
+-  Created 20+ Python mini-projects and UI-based web apps
+-  Created  a Healthcare website 'Saarthi'using MERN stack with GEN AI
+-  Created  a coding website 'InternEase'using MERN stack with GEN AI.
+- Created  a coding website 'NutriChef AI'using MERN stack with GEN AI
+- Co-Author of a research paper published in IEEE "Hybrid DNA Computing and Machine Learning Classifer for Scalable Fraud Detection"
+-  Contributor at Social Summer of Code  
 - 📖 Love reading novels and listening to music
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
