@@ -10,9 +10,9 @@
 
 <!-- 💖 Short Intro -->
 <p align="center">
-   Passionate Tech Enthusiast | BTech @ GLA University |  Creative Web Developer  
+   Building scalable applications, solving real-world problems, and continuously evolving as a developer.
   <br/>
-   Growing daily with DSA, Web Dev, Hackathons & Competitions
+   Full-Stack Development • DSA • Generative AI • Open Source
 </p>
 
 ---
