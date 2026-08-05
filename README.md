@@ -18,7 +18,7 @@
 ---
 
 ### About Me
-
+-  Certified From Coding Blocks for Data Structures & Algorithms using Java
 -  Learning full-stack development and solving daily DSA problems  
 -  Participated in coding contests and hackathons like Flipkart Grid 6.0, CodeThon, Hack-ethon, DecoCX  
 -  Member of GirlsCode & WomenTechmakers  
