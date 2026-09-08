@@ -50,7 +50,3 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
-## 🚀 What I Love Building
-💻 Full-Stack Web Applications and Generative AI Projects
-🎨 Creative Frontend Experiences
-🌍 Open-Source Projects
