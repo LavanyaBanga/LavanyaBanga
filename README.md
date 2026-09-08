@@ -14,8 +14,6 @@
 ## 👩‍💻 About Me
 - 🎓 Computer Science Engineering student and aspiring Software Developer
 - 🧠 Certified in Data Structures & Algorithms using Java from Coding Blocks
-- 💻 Learning Full-Stack Development and solving DSA problems regularly
-- 🚀 Interested in building scalable and real-world applications
 - 🏆 Participated in coding contests and hackathons including Flipkart Grid 6.0, CodeThon, Hack-ethon, and DecoCX
 - 👩‍💻 Member of GirlsCode and Women Techmakers
 - 🌱 Mentee at Apertre 2.0
@@ -24,7 +22,6 @@
 - 🧑‍🍳 Solved **150+ problems on CodeChef**
 - 🐍 Built **20+ Python mini-projects and UI-based applications**
 - 🤖 Built **6 projects using MERN Stack and Generative AI**
-- 🌐 Built and deployed web applications using HTML, CSS, and JavaScript
 - 📄 Co-author of an IEEE research paper:
   **"Hybrid DNA Computing and Machine Learning Classifier for Scalable Fraud Detection"**
 - 🌍 Contributor at Social Summer of Code
