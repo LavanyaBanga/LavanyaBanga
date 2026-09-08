@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" 
        alt="Tech Banner" width="100%" /></p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Lavanya+Banga!;Aspiring+Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%7C+DSA+%7C+Generative+AI;Building+Ideas+Into+Real+Projects" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Lavanya+Banga!;Aspiring+Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%7C+DSA+%7C+Generative+AI;Building+Ideas+Into+Real+Projects" />
 </h3>
 <p align="center">
   Building scalable applications, solving real-world problems, and continuously evolving as a developer.
